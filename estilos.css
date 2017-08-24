@@ -35,7 +35,7 @@ header, footer, .redes-sociais, .tecnologias{
     text-align: left;
 }
 
-.mail{
+.telefone{
     width: 250px;
     height: 20px;
     display: inline-block;
@@ -44,18 +44,14 @@ header, footer, .redes-sociais, .tecnologias{
     background-repeat: no-repeat;
     text-align: left;
 }
-.redes-socias li{
-    whidt: 40px;
-    height: 40px;
-    display: inline-block;
-    text-indent: 7000px;
+
+.redes-sociais li{ display: inline-block;}
+
+.redes-sociais li a{ display: inline-block;}
 }
 
-.redes-socias li a{display: block;
-    whidt: 40px;
-    height: 40px;
-}
 
+<!-- 
 .ico-linkedin{
     whidt: 40px;
     height: 40px;
@@ -70,4 +66,18 @@ header, footer, .redes-sociais, .tecnologias{
     background-repeat: no-repeat;
         
 }
-    
+    -->
+
+
+
+.ico{ width: 40px;  
+    height: 40px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-indent: 7000px;
+    display: inline-block;}
+
+.linkedin{background-image: url('linkedin.png');}
+.github{background-image: url('github.png');}
+.facebook{background-image: url('facebook.png');}
+.devcard{background-image: url('devcard.png');}
