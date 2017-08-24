@@ -17,16 +17,30 @@ h1,h2,h3{
     margin-top: 3px;
     margin-bottom: 5px;
 }
-h2{
-    font-size: 22px;
-}
-
-h3{
-font-size: 20px;
-}
+h2{font-size: 22px;}
+h3{font-size: 20px;}
 
 a{color: #E3AE57;}
 
 header, footer, .redes-sociais, .tecnologias{
     text-align:center;
     }
+.mail{
+    width: 250px;
+    height: 20px;
+    display: inline-block;
+    padding-right: 21px;
+    background-image: url(email.png);
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+.mail{
+    width: 250px;
+    height: 20px;
+    display: inline-block;
+    padding-right: 21px;
+    background-image: url(telefone.png);
+    background-repeat: no-repeat;
+    text-align: left;
+}
