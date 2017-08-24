@@ -81,3 +81,15 @@ header, footer, .redes-sociais, .tecnologias{
 .github{background-image: url('github.png');}
 .facebook{background-image: url('facebook.png');}
 .devcard{background-image: url('devcard.png');}
+
+.projetos h3{text-align: center}
+.projetos ul{
+    widht: 700px;
+    margin: 0 auto;
+}
+.projetos li{
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+    
+    
