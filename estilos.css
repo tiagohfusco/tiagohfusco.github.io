@@ -90,6 +90,22 @@ header, footer, .redes-sociais, .tecnologias{
 .projetos li{
     margin-bottom: 7px;
     margin-top: 7px;
+    padding-left: 24px;
+    background-image: url('projetos.png');
+    background-repeat: no-repeat;
 }
     
-    
+.projetos li:hover{
+    background-image: url('projetos2.png');
+    color: #e35757;
+}
+
+a:hover{
+    color:#e35757;
+}
+
+h3{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ffffff
+}
