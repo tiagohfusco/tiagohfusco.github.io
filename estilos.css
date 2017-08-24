@@ -1,5 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    background-color: black
 }
 
 .corpo{
@@ -11,6 +12,9 @@ h1,h2,h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     font-weight: bold;
+    color: #DC3D24;
+    margin-top: 3px;
+    margin-bottom: 5px;
 }
 h2{
     font-size: 22px;
