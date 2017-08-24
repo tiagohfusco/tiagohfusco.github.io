@@ -1,0 +1,21 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.corpo{
+    margin: 0 auto;
+    whidt: 960px;
+}
+
+h1,h2,h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+h2{
+    font-size: 22px;
+}
+
+h3{
+font-size: 20px;
+}
