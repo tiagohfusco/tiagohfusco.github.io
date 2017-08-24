@@ -97,7 +97,7 @@ header, footer, .redes-sociais, .tecnologias{
     
 .projetos li:hover{
     background-image: url('projetos2.png');
-    color: #e35757;
+    color: #e35757
 }
 
 a:hover{
@@ -118,7 +118,24 @@ h3{
 .tecnologias li{
     display: inline-block;
     width: 150px;
-    border: 1px solid #ffffff;
     padding: 8px;
     margin: 3px;
 }
+
+.dev{
+    background-color: #1abc9c;
+    border: 2px solid #16a085
+}
+
+.dev:hover{
+    background-color: #16a085}
+
+.app{background-color: #2ecc71;
+    border: 2px solid #27ae60}
+
+.app:hover{background-color: #27ae60}
+
+.design{background-color: #3498db;
+    border: solid #2980b9}
+
+.design:hover{ background-color: #2980b9}
