@@ -1,6 +1,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: black
+    background-color: black;
+    color: aqua;
 }
 
 .corpo{
@@ -23,3 +24,9 @@ h2{
 h3{
 font-size: 20px;
 }
+
+a{color: #E3AE57;}
+
+header, footer, .redes-sociais, .tecnologias{
+    text-align:center;
+    }
