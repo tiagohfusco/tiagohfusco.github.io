@@ -51,6 +51,23 @@ header, footer, .redes-sociais, .tecnologias{
     text-indent: 7000px;
 }
 
-.redes-socias li a{
+.redes-socias li a{display: block;
+    whidt: 40px;
+    height: 40px;
+}
+
+.ico-linkedin{
+    whidt: 40px;
+    height: 40px;
+    background-image: url('linkedin.png');
+    background-repeat: no-repeat;
+}
+
+.ico-facebook{
+    whidt:40px;
+    height: 40px;
+    background-image: url('facebook.png');
+    background-repeat: no-repeat;
+        
 }
     
