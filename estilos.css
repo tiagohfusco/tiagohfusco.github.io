@@ -30,7 +30,7 @@ header, footer, .redes-sociais, .tecnologias{
     height: 20px;
     display: inline-block;
     padding-right: 21px;
-    background-image: url(email.png);
+    background-image: url(Img/email.png);
     background-repeat: no-repeat;
     text-align: left;
 }
