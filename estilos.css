@@ -29,7 +29,7 @@ header, footer, .redes-sociais, .tecnologias{
     width: 250px;
     height: 20px;
     display: inline-block;
-    padding-right: 21px;
+    padding-left: 21px;
     background-image: url(Img/email.png);
     background-repeat: no-repeat;
     text-align: left;
@@ -39,7 +39,7 @@ header, footer, .redes-sociais, .tecnologias{
     width: 250px;
     height: 20px;
     display: inline-block;
-    padding-right: 21px;
+    padding-left: 21px;
     background-image: url(Img/telefone.png);
     background-repeat: no-repeat;
     text-align: left;
