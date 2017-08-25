@@ -40,7 +40,7 @@ header, footer, .redes-sociais, .tecnologias{
     height: 20px;
     display: inline-block;
     padding-right: 21px;
-    background-image: url(telefone.png);
+    background-image: url(Img/telefone.png);
     background-repeat: no-repeat;
     text-align: left;
 }
@@ -77,9 +77,9 @@ header, footer, .redes-sociais, .tecnologias{
     text-indent: 7000px;
     display: inline-block;}
 
-.linkedin{background-image: url('linkedin.png');}
-.github{background-image: url('github.png');}
-.facebook{background-image: url('facebook.png');}
+.linkedin{background-image: url('Img/linkedin.png');}
+.github{background-image: url('Img/github.png');}
+.facebook{background-image: url('Img/facebook.png');}
 .devcard{background-image: url('devcard.png');}
 
 .projetos h3{text-align: center}
